@@ -1,6 +1,3 @@
-
-open Str
-
 type locationIdLists = (int list) * (int list)
 
 let parse_input (filename): locationIdLists = 
