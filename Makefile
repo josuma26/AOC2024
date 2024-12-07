@@ -1,5 +1,5 @@
 
-day = 3
+day = 6
 
 all: run
 
