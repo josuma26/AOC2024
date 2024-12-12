@@ -1,5 +1,5 @@
 
-day = 7
+day = 8
 
 all: run
 
